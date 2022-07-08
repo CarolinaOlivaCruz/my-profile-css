@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.texto 
+img {
+    border-radius: 80px;
+}
+
+.link{
+    display: flexbox;
+}
+
+.link
+
+img{
+    width: 45px;
+    border-radius: 100px;
+    border: 0;
+
+}
