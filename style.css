@@ -1,9 +1,12 @@
 
+
+
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
+    background-image: linear-gradient(to bottom, rgb(247, 223, 238), rgb(228, 165, 207), rgb(228, 98, 178), rgb(170, 24, 138));
     text-align: center;
-    color: white;
+    color: rgb(14, 13, 13);
+    
 }
 
 .texto 
@@ -11,15 +14,12 @@ img {
     border-radius: 80px;
 }
 
-.link{
-    display: flexbox;
-}
-
 .link
-
 img{
     width: 45px;
     border-radius: 100px;
     border: 0;
-
+    display: inline-block;
+    
 }
+
